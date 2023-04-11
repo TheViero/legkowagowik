@@ -1,0 +1,22 @@
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\bin\Debug\Легковаговик.exe.config
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\bin\Debug\Легковаговик.exe
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\bin\Debug\Легковаговик.pdb
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\obj\Debug\Легковаговик.csproj.AssemblyReference.cache
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\obj\Debug\Легковаговик.csproj.SuggestedBindingRedirects.cache
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\obj\Debug\Легковаговик.Form1.resources
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\obj\Debug\Легковаговик.Properties.Resources.resources
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\obj\Debug\Легковаговик.csproj.GenerateResource.cache
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\obj\Debug\Легковаговик.csproj.CoreCompileInputs.cache
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\obj\Debug\Легковаговик.exe
+E:\прог\4 курс\Олежа\Легковаговик\Легковаговик\obj\Debug\Легковаговик.pdb
+D:\Легковаговик\Легковаговик\bin\Debug\Легковаговик.exe.config
+D:\Легковаговик\Легковаговик\bin\Debug\Легковаговик.exe
+D:\Легковаговик\Легковаговик\bin\Debug\Легковаговик.pdb
+D:\Легковаговик\Легковаговик\obj\Debug\Легковаговик.csproj.AssemblyReference.cache
+D:\Легковаговик\Легковаговик\obj\Debug\Легковаговик.csproj.SuggestedBindingRedirects.cache
+D:\Легковаговик\Легковаговик\obj\Debug\Легковаговик.Form1.resources
+D:\Легковаговик\Легковаговик\obj\Debug\Легковаговик.Properties.Resources.resources
+D:\Легковаговик\Легковаговик\obj\Debug\Легковаговик.csproj.GenerateResource.cache
+D:\Легковаговик\Легковаговик\obj\Debug\Легковаговик.csproj.CoreCompileInputs.cache
+D:\Легковаговик\Легковаговик\obj\Debug\Легковаговик.exe
+D:\Легковаговик\Легковаговик\obj\Debug\Легковаговик.pdb
